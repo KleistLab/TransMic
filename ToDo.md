@@ -7,8 +7,9 @@
 - Refactor code, both `transmic.py` and `transmiclib.py`:
     - make code more modular, ideally encapsulate in one or multiple classes
     - consider splitting the functions into multiple files, depending on their context
-- Add unit tests and potentially additional data files used by the tests 
+- Add unit tests and potentially additional data files used by the tests
 
 
 ## Minor
 - Evaluate if the key libraries used in the project (dendropy) are up to date and test the project with the updated libraries
+- Replace control.tbsc by a standardized configuration file format like YAML
