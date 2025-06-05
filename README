@@ -1,13 +1,12 @@
-Transmic
--------
--------
+# Transmic
+ 
 
-Transmic is a Python program for identifying clusters in phylogenetic trees by combining
+## Transmic is a Python program for identifying clusters in phylogenetic trees by combining
 inter-taxon patristic distances with statstical support values of the corresponding branch
 nodes.
 
 
-Installation / Usage:
+## Installation / Usage:
 
 After the parameterization of the program is conducted using the file controlfile.tbsc 
 the program is started in the console by typing python transmic.py
