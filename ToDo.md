@@ -12,4 +12,4 @@
 
 ## Minor
 - Evaluate if the key libraries used in the project (dendropy) are up to date and test the project with the updated libraries
-- Replace control.tbsc by a standardized configuration file format like YAML
+- Replace controlfile.tbsc by a standardized configuration file format like YAML
